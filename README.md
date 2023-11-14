@@ -11,3 +11,9 @@ pip install Pillow
 ```
 pip install tk
 ```
+
+Finally, Run b-remover.py
+
+```
+Python b-remover.py
+```
