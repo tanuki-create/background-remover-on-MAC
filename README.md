@@ -1,6 +1,6 @@
 # background-remover-on-MAC
 
-# Installation
+# Installation and Running
 Use the package manager pip to install rembg, Pillow, and Tkinter.
 ```
 pip install rembg
