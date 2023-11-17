@@ -64,7 +64,7 @@ named_directory_in = tk.StringVar(root, saved_default_in)
 named_directory_out = tk.StringVar(root, saved_default_out)
 
 root.geometry("640x250")
-root.title("UNCHA - Batch Background Removal Tool")
+root.title("Batch Background Removal Tool")
 root.columnconfigure(0, weight=1)
 root.columnconfigure(1, weight=1)
 root.columnconfigure(2, weight=1)
