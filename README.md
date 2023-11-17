@@ -15,5 +15,5 @@ pip install tk
 Finally, Run b-remover.py
 
 ```
-Python b-remover.py
+Python b-remove.py
 ```
